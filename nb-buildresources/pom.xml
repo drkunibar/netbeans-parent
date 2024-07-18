@@ -4,7 +4,7 @@
   <parent>
     <groupId>io.github.drkunibar.netbeans</groupId>
     <artifactId>nb-superparent</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
   </parent>
   <artifactId>nb-buildresources</artifactId>
   <packaging>jar</packaging>
